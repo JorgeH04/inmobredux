@@ -142,7 +142,7 @@ const MainList = () => {
 
 
 
-        <Pagination
+     <Pagination
         currentPage={currentPage}
         totalPages={Math.ceil(filteredProperties.length / ITEMS_PER_PAGE)}
         onPageChange={handlePageChange}
@@ -150,15 +150,8 @@ const MainList = () => {
 
 
 
-</div>
-        </div>
-
-
-
-
-
-
-
+   </div>
+ </div>
     </>
   );
 };

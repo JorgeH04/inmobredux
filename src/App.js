@@ -53,8 +53,8 @@ function App() {
 
  
 
-{/* <Footer /> */}
-
+   
+   <Footer/>
 
 </Router>
 

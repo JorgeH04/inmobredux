@@ -14,7 +14,7 @@ export default function Footer() {
             <h3 class="footer-heading mb-4">Inmobiliaria de Lujo en Marbella. Essence of Marbella</h3>
             
          
-            <p style="color:darkgrey">
+            <p >
                 Tel: +34 951 356 691
               <br/>
                 Email: info@realpropertyestate.com
@@ -66,7 +66,7 @@ export default function Footer() {
       <div class="row pt-5 mt-5 text-center">
         <div class="col-md-12">
           <p>
-          Copyright  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved 
+
 
           </p>
         </div>
